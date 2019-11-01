@@ -1,0 +1,5 @@
+C:\Users\feng\Desktop\SelectConverter\SelectConverter\bin\Debug\SelectConverter.dll
+C:\Users\feng\Desktop\SelectConverter\SelectConverter\bin\Debug\SelectConverter.pdb
+C:\Users\feng\Desktop\SelectConverter\SelectConverter\obj\Debug\SelectConverter.csprojAssemblyReference.cache
+C:\Users\feng\Desktop\SelectConverter\SelectConverter\obj\Debug\SelectConverter.dll
+C:\Users\feng\Desktop\SelectConverter\SelectConverter\obj\Debug\SelectConverter.pdb

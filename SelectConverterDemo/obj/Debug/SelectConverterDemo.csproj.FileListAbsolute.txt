@@ -1,0 +1,16 @@
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\bin\Debug\SelectConverterDemo.exe
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\bin\Debug\SelectConverterDemo.pdb
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\bin\Debug\SelectConverter.dll
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\bin\Debug\SelectConverter.pdb
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.csprojAssemblyReference.cache
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\MainWindow.g.cs
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\App.g.cs
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo_MarkupCompile.cache
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo_MarkupCompile.lref
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\MainWindow.baml
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.g.resources
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.Properties.Resources.resources
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.csproj.GenerateResource.cache
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.csproj.CopyComplete
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.exe
+C:\Users\feng\Desktop\SelectConverter\SelectConverterDemo\obj\Debug\SelectConverterDemo.pdb

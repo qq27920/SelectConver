@@ -1,0 +1,25 @@
+﻿<Window x:Class="SelectConverterDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SelectConverterDemo"
+        xmlns:conver="clr-namespace:SelectConverter;assembly=SelectConverter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <conver:SelectStringConverter x:Key="selectConver"></conver:SelectStringConverter>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Width="200" Height="200">
+            <!--改变可见状态-->
+            <TextBlock Margin="0 10 0 10" Text="选中状态下，我将被隐藏" Visibility="{Binding ElementName=cbChangeText,Path=IsChecked,Converter={StaticResource selectConver},ConverterParameter=true----Collapsed|false----Visible}" HorizontalAlignment="Center"></TextBlock>
+            <!--改变文本-->
+            <GroupBox Height="100" Header="{Binding ElementName=cbChangeText,Path=IsChecked,Converter={StaticResource selectConver},ConverterParameter=true----我被选中了|false----我没被选中|null----选中状态改变我也将被改变}">
+                <Border Background="{Binding ElementName=cbChangeText,Path=IsChecked,Converter={StaticResource selectConver},ConverterParameter=true----red|false----green}"><!--改变背景色-->
+                    <CheckBox IsChecked="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="cbChangeText" Content="更改我状态触发"></CheckBox>
+                </Border>
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Window>
